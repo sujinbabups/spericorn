@@ -8,6 +8,16 @@ This repository contains two versions of an NFT Marketplace smart contract:
 
 The project allows users to mint NFTs, list them for sale, buy NFTs, and remove NFTs from sale. The contracts are based on the ERC721 standard for NFTs and use OpenZeppelin contracts for common functionality like ownership and upgradeability.
 
+## Contract -1 Deployed Address :
+```
+0x5FbDB2315678afecb367f032d93F642f64180aa3
+```
+
+## Contract -2 Deployed Address (Upgradable) :
+```
+0x5FbDB2315678afecb367f032d93F642f64180aa3
+```
+
 ### Key Features
 - Mint new NFTs and assign them to the caller.
 - List NFTs for sale with a specified price.
